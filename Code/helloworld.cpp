@@ -9,5 +9,5 @@ int main()
     freopen("output.txt", "w", stdout);
 #endif
 
-    std::cout << "Namaste oooouuuuuuDuniya" << std::endl;
+    cout << "Namaste Duniya" << endl;
 }
